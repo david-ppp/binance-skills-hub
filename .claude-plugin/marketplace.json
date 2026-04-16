@@ -1,0 +1,13 @@
+{
+  "name": "binance-skills-hub",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "binance-web3",
+      "source": "./skills/binance-web3",
+      "description": "binance web3 skills"
+    }
+  ]
+}
