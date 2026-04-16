@@ -1,6 +1,6 @@
 {
   "name": "binance-web3-plugin",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "skills": [
     "./skills/binance-agentic-wallet",
     "./skills/binance-tokenized-securities-info",
