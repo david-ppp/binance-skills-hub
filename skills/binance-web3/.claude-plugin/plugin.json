@@ -1,4 +1,14 @@
 {
   "name": "binance-web3-plugin",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "skills": [
+    "./skills/binance-agentic-wallet",
+    "./skills/binance-tokenized-securities-info",
+    "./skills/crypto-market-rank",
+    "./skills/meme-rush",
+    "./skills/query-address-info",
+    "./skills/query-token-audit",
+    "./skills/query-token-info",
+    "./skills/trading-signal"
+  ]
 }
