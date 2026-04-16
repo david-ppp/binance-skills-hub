@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "binance-web3",
+      "name": "binance-web3-skills",
       "source": "./skills/binance-web3",
       "description": "Binance web3 skills"
     }
