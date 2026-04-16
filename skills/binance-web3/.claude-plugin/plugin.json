@@ -2,12 +2,12 @@
   "name": "binance-web3-skills",
   "version": "4.0.0",
   "skills": [
-    "./binance-agentic-wallet",
     "./binance-tokenized-securities-info",
     "./crypto-market-rank",
     "./meme-rush",
     "./query-address-info",
     "./query-token-audit",
-    "./query-token-info"
+    "./query-token-info",
+    "./trading-signal"
   ]
 }
